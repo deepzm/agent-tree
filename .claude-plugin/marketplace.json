@@ -1,0 +1,11 @@
+{
+  "name": "deepak-agent-tree",
+  "owner": { "name": "Deepak" },
+  "plugins": [
+    {
+      "name": "agent-tree",
+      "source": "./",
+      "description": "A pane docked beside the transcript showing every agent, its model and its delegation as a live tree"
+    }
+  ]
+}
